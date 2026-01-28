@@ -1,0 +1,21 @@
+# 🌌 Neon Vector (Roguelike)
+
+Um jogo de tiro 2D top-down estilo Roguelike, desenvolvido com foco em performance e mecânicas de física personalizadas.
+
+## 🎮 Sobre o Jogo
+Você controla uma nave em um ambiente hostil, enfrentando ondas de inimigos e chefes com habilidades únicas. O jogo apresenta um sistema de partículas personalizado e física vetorial.
+
+## 🕹️ Controles
+* **WASD:** Movimentação
+* **Mouse:** Mira
+* **Clique Esquerdo:** Atirar
+* **Shift:** Dash
+* **Espaço:** Skill
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagem:** [TypeScript](https://www.typescriptlang.org/) (Lógica segura e tipada)
+* **Framework:** [React 19](https://react.dev/) (Interface)
+* **Engine Gráfica:** **Canvas API** (Renderização nativa de alta performance)
+* **Build Tool:** [Vite](https://vitejs.dev/)
+* **Física:** Implementação própria de vetores (Vector Math)

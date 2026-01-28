@@ -31,15 +31,15 @@ Antes de começar, certifique-se de ter instalado:
 
 ### Passo a Passo
 
-1.  **Clone o repositório:**
-    Abra o terminal e execute o comando:
-    ```bash
-    git clone [https://github.com/wcbueno/Neon-Vector.git](https://github.com/wcbueno/Neon-Vector.git)
-    ```
+1. Clone o repositório:
+   Abra o terminal e execute o comando:
+   ```bash
+   git clone [https://github.com/wcbueno/Neon-Vector.git](https://github.com/wcbueno/Neon-Vector.git)
+   ```
 
 2.  **Entre na pasta do projeto:**
     ```bash
-    cd neon-vector-v5
+    cd Neon-Vector
     ```
 
 3.  **Instale as dependências:**

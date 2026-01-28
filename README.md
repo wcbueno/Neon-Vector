@@ -34,7 +34,7 @@ Antes de começar, certifique-se de ter instalado:
 1. Clone o repositório:
    Abra o terminal e execute o comando:
    ```bash
-   git clone [https://github.com/wcbueno/Neon-Vector.git](https://github.com/wcbueno/Neon-Vector.git)
+   git clone https://github.com/wcbueno/Neon-Vector.git
    ```
 
 2.  **Entre na pasta do projeto:**
